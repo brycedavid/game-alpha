@@ -15,10 +15,10 @@ A blank slate to begin brainstorming game ideas
  
 - Class system - can choose one from each pool:
   * **Combat class**
-   + Fighter
-   + Mage
-   + Ranger
-   + Healer
+    - Fighter
+    - Mage
+    - Ranger
+    - Healer
    
   * **Homestead class**
     - Crop-focused
