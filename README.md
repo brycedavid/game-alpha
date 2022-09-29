@@ -14,18 +14,18 @@ A blank slate to begin brainstorming game ideas
   * Armoring skills, cooking skills, passives, etc.
  
 - Class system - can choose one from each pool:
-  * Combat class
+  * **Combat class**
    + Fighter
    + Mage
    + Ranger
    + Healer
    
-  * Homestead class
+  * **Homestead class**
    + Crop-focused
    + Livestock-focused
    + Building-focused
    
-  * Adventure class
+  * **Adventure class**
    + Miner
    + Harvestor
    + Landscaper?
