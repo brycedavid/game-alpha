@@ -21,13 +21,13 @@ A blank slate to begin brainstorming game ideas
    + Healer
    
   * **Homestead class**
-   + Crop-focused
-   + Livestock-focused
-   + Building-focused
+    - Crop-focused
+    - Livestock-focused
+    - Building-focused
    
   * **Adventure class**
-   + Miner
-   + Harvestor
-   + Landscaper?
+    - Miner
+    - Harvestor
+    - Landscaper?
    
    
